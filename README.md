@@ -18,7 +18,7 @@ Made my making the image black and white, then overlaying a text pattern using a
 
 *External Resources Used:*
 
-- ![Dollar bill font](https://www.dafont.com/dollar-bill.font)
 - ![FastColorLut Patch](https://github.com/positlabs/spark-lut-tutorial)
 - ![Photshop Hard Mix Blend Spark AR Patch](https://github.com/positlabs/spark-blend-modes)
+- ![Dollar bill font](https://www.dafont.com/dollar-bill.font)
 - A couple of shutterstock photos
